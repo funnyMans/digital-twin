@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "dashboard": "Dashboard",
+    "checkDocks": "Check Docs",
+    "welcome": "Welcome to the Future",
+    "company": "GenetIQ",
+    "dt": "Digital Twin"
+  },
+  "NavBar": {
+    "dashboard": "Dashboard",
+    "goals": "Goals",
+    "test": "Test",
+    "report": "Report",
+    "toggleTheme": "Toggle Theme",
+    "getStarted": "Get Started"
+  }
+}

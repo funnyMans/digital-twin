@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "Hallo Welt!",
+    "dashboard": "Dashboard",
+    "checkDocks": "Dokumentation prüfen",
+    "welcome": "Willkommen in der Zukunft",
+    "company": "GenetIQ",
+    "dt": "Digitaler Zwilling"
+  },
+  "NavBar": {
+    "dashboard": "Dashboard",
+    "goals": "Ziele",
+    "test": "Test",
+    "report": "Bericht",
+    "toggleTheme": "Theme wechseln",
+    "getStarted": "Loslegen"
+  }
+}

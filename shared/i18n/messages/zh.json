@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "你好，世界！",
+    "dashboard": "仪表盘",
+    "checkDocks": "查看文档",
+    "welcome": "欢迎来到未来",
+    "company": "GenetIQ",
+    "dt": "数字孪生"
+  },
+  "NavBar": {
+    "dashboard": "仪表盘",
+    "goals": "目标",
+    "test": "测试",
+    "report": "报告",
+    "toggleTheme": "切换主题",
+    "getStarted": "开始使用"
+  }
+}

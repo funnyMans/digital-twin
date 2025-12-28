@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "Bonjour le monde !",
+    "dashboard": "Tableau de bord",
+    "checkDocks": "Voir la documentation",
+    "welcome": "Bienvenue dans le Futur",
+    "company": "GenetIQ",
+    "dt": "Jumeau Numérique"
+  },
+  "NavBar": {
+    "dashboard": "Tableau de bord",
+    "goals": "Objectifs",
+    "test": "Test",
+    "report": "Rapport",
+    "toggleTheme": "Changer le thème",
+    "getStarted": "Commencer"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "new-york",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": {
+    "config": "tailwind.config.js",
+    "css": "app/styles/globals.css",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "iconLibrary": "lucide",
+  "aliases": {
+    "components": "@/shared/lib/shadCN/components",
+    "utils": "@/shared/lib/shadCN/utils",
+    "ui": "@/shared/lib/shadCN/components/ui",
+    "lib": "@/shared/lib",
+    "hooks": "@/shared/lib/shadCN/hooks"
+  },
+  "registries": {
+    "@diceui": "https://diceui.com/r/{name}.json",
+    "@animate-ui": "https://animate-ui.com/r/{name}.json",
+    "@eldoraui": "https://eldoraui.site/r/{name}.json",
+    "@shadcn-studio": "https://shadcnstudio.com/r/{name}.json",
+    "@ss-components": "https://shadcnstudio.com/r/components/{name}.json",
+    "@ss-blocks": "https://shadcnstudio.com/r/blocks/{name}.json",
+    "@ss-themes": "https://shadcnstudio.com/r/themes/{name}.json",
+    "@manifest": "https://ui.manifest.build/r/{name}.json"
+  }
+}

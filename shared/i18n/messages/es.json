@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "¡Hola mundo!",
+    "dashboard": "Panel",
+    "checkDocks": "Ver documentación",
+    "welcome": "Bienvenido al Futuro",
+    "company": "GenetIQ",
+    "dt": "Gemelo Digital"
+  },
+  "NavBar": {
+    "dashboard": "Panel",
+    "goals": "Objetivos",
+    "test": "Prueba",
+    "report": "Informe",
+    "toggleTheme": "Cambiar tema",
+    "getStarted": "Comenzar"
+  }
+}
